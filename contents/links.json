@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bosh-github",
+    "title": "Bosh's Github",
+    "url": "https://github.com/Bosh-Kuo",
+    "cover": "/images/links/bosh-github.png"
+  },
+  {
+    "id": "bosh-tech-notes",
+    "title": "Bosh's Tech Notes",
+    "url": "https://notes.boshkuo.com",
+    "cover": "/images/links/bosh-tech-notes.png"
+  },
+  {
+    "id": "bosh-blog",
+    "title": "Bosh's Blog",
+    "url": "https://blog.boshkuo.com",
+    "cover": "/images/links/bosh-blog.png"
+  },
+  {
+    "id": "bosh-youtube",
+    "title": "Bosh's Youtube",
+    "url": "https://www.youtube.com/@boshkuo",
+    "cover": "/images/links/bosh-youtube.png"
+  }
+]

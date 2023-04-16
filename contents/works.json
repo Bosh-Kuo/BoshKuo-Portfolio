@@ -1,0 +1,151 @@
+[
+  {
+    "category": "Web",
+    "id": "bosh-tech-notes",
+    "title": "Bosh's Tech Notes",
+    "time": "2022",
+    "stack": [
+      "Docusaurus",
+      "React",
+      "Vercel",
+      "Github RESTful API",
+      "Google Analytic"
+    ],
+    "platform": "Web Browser",
+    "source": "https://github.com/Bosh-Kuo/docusaurus-dev-notes",
+    "demo": "https://notes.boshkuo.com",
+    "intro": "It's Bosh's tech notes website. It records the issues I encountered and the knowledge I learned when developing.",
+    "cover": "/images/works/bosh-tech-notes/cover.png",
+    "description": "This website is a knowledge notes repository of my learning journey as a software engineer, and it primarily consists of notes and articles sourced from various online resources. As I continue to explore new technologies and programming concepts, I document my findings and share them on this platform to help fellow learners and aspiring developers.",
+    "figures": [
+      "/images/works/bosh-tech-notes/fig1.png",
+      "/images/works/bosh-tech-notes/fig2.png",
+      "/images/works/bosh-tech-notes/fig3.png"
+    ]
+  },
+  {
+    "category": "Web",
+    "id": "computer-vision-game-playground",
+    "title": "Computer Vision Game Playground",
+    "time": "2021",
+    "stack": [
+      "React",
+      "Tensorflow.js",
+      "Material UI",
+      "react-webcam",
+      "GraphQL",
+      "NodeJS",
+      "Express",
+      "MongoDB",
+      "Heroku",
+      "Netlify"
+    ],
+    "platform": "Web Browser",
+    "source": "https://github.com/Bosh-Kuo/CV-Game-frontend",
+    "demo": "",
+    "intro": "It's a computer vision web-based gaming program that incorporates webcam and computer vision technology.",
+    "cover": "/images/works/computer-vision-game-playground/cover.png",
+    "description": "This project is a full-stack interactive web application. It includes three interactive games that integrate webcam and image recognition technology. The frontend is responsible to utilize Tensorflow.js's MoveNet model to detect key points from user's images which capture by webcam. The backend utilizes NodeJS and GraphQL to create APIs for data manipulation, including user information and game score ranking.",
+    "figures": ["/images/works/computer-vision-game-playground/fig1.png"]
+  },
+  {
+    "category": "Web",
+    "id": "pose-flappy-bird",
+    "title": "Pose Flappy Bird",
+    "time": "2021",
+    "stack": [
+      "React",
+      "Tensorflow.js",
+      "Material UI",
+      "react-webcam",
+      "mediapipe",
+      "Netlify"
+    ],
+    "platform": "Web Browser",
+    "source": "https://github.com/Bosh-Kuo/Post-Flappy-Bird",
+    "demo": "https://post-flappy-bird.netlify.app/",
+    "intro": "This is an interactive web-based game based on computer vision technology, inspired by the classic Flappy Bird game.",
+    "cover": "/images/works/pose-flappy-bird/cover.png",
+    "description": "The project is a web-based game that combines React and Tensorflow.js. MoveNet, an ultra-fast and accurate model from Tensorflow.js, would detects 17 key-points of user's body. The shoulder and wrist keypoints are used to control the Flappy Bird game. By mimicking bird flying and flapping your arms, you can make the bird fly up.",
+    "figures": [
+      "/images/works/pose-flappy-bird/fig1.png",
+      "/images/works/pose-flappy-bird/fig2.png",
+      "/images/works/pose-flappy-bird/fig3.png"
+    ]
+  },
+  {
+    "category": "Web",
+    "id": "ecommerce",
+    "title": "E-Commerce",
+    "time": "2022",
+    "stack": ["React", "Material UI", "Django", "Python", "SQLite"],
+    "platform": "Web Browser",
+    "source": "https://github.com/Bosh-Kuo/Database-2022-Fall",
+    "demo": "",
+    "intro": "The project is a full-stack website for an e-commerce platform.",
+    "cover": "/images/works/ecommerce/cover.png",
+    "description": "The project is a full-stack website for an e-commerce platform, featuring common functionalities such as Django admin backend management, user registration and login, keyword search, product listing, shopping cart, and messaging board. The frontend is developed using React and Material-UI, while the backend is built with Django and utilizes SQL for data storage.",
+    "figures": [
+      "/images/works/ecommerce/fig1.png",
+      "/images/works/ecommerce/fig2.png",
+      "/images/works/ecommerce/fig3.png"
+    ]
+  },
+  {
+    "category": "Web",
+    "id": "mine-sweeper",
+    "title": "Mine Sweeper",
+    "time": "2021",
+    "stack": ["React", "HTML", "CSS", "Javascript"],
+    "platform": "Web Browser",
+    "source": "https://github.com/Bosh-Kuo/Mine-Sweeper-wp1101-hack1",
+    "demo": "https://bosh-kuo.github.io/Mine-Sweeper-wp1101-hack1/",
+    "intro": "A simple pure front-end mine-sweeper game.",
+    "cover": "/images/works/mine-sweeper/cover.png",
+    "description": "This project is a simple front-end mine-sweeper game made with React.js. Players can set the difficulty of the game by adjusting the size of the board and the number of mines.",
+    "figures": ["/images/works/mine-sweeper/fig1.png"]
+  },
+  {
+    "category": "AI",
+    "id": "structural-dynamic-responses-prediction",
+    "title": "GNN-LSTM-based Fusion Model for Structural Dynamic Responses Prediction",
+    "time": "2022",
+    "stack": ["Python", "Pytorch", "Linux", "GNN", "LSTM", "Seq2Seq"],
+    "platform": "Linux",
+    "source": "https://github.com/Bosh-Kuo/GNN-LSTM-based-Fusion-Model-for-Structural-Dynamic-Responses-Prediction",
+    "demo": "",
+    "intro": "A novel GNN-LSTM-based fusion model which could accurately predict the seismic responses of multiple structures with different geometry.",
+    "cover": "/images/works/structural-dynamic-responses-prediction/cover.png",
+    "description": "In this study, we developed a novel GNN-LSTM-based fusion model framework. It can predict the nonlinear responses history of acceleration, velocity, and displacement for each floor of any SMRF structure between 4 and 7 stories in height.",
+    "figures": [
+      "/images/works/structural-dynamic-responses-prediction/fig1.png",
+      "/images/works/structural-dynamic-responses-prediction/fig2.png"
+    ]
+  },
+  {
+    "category": "AI",
+    "id": "topic-transition-through-dialogue",
+    "title": "Topic Transition Through Dialogue",
+    "time": "2022",
+    "stack": [
+      "Python",
+      "Pytorch",
+      "Linux",
+      "Hugging Face",
+      "NLP",
+      "Transformer",
+      "RL"
+    ],
+    "platform": "Linux",
+    "source": "https://github.com/Bosh-Kuo/ADL-2022-Spring/tree/master/final_project_scripts",
+    "demo": "",
+    "intro": "A salesman chatbot to transit the dialogue from open-domain to task-related topic.",
+    "cover": "/images/works/topic-transition-through-dialogue/cover.png",
+    "description": "The goal of this project is to train a salesman to smoothly guide the conversation content to a specific topic (Task-Related) in any (open-domain) conversation situation without making people feel obtrusive.",
+    "figures": [
+      "/images/works/topic-transition-through-dialogue/fig1.png",
+      "/images/works/topic-transition-through-dialogue/fig2.png",
+      "/images/works/topic-transition-through-dialogue/fig3.png"
+    ]
+  }
+]
